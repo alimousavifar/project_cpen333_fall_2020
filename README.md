@@ -149,4 +149,4 @@ All students within a group will be awarded the same mark.  The final grade is a
 
 ## Deadline
 
-The deadline for the project is the day of the last class, **December 3rd**.  You must demo your project *before* the scheduled exam.  There will be a dedicated time to demo your project. Details of the Demo session and its date will be announced later in November.
+The deadline for the project is the day of the last class, **Dec 7th 8am PST via TurnItIn and Git** (See announcment made on Nov 29 at 9:42pm in [Canvas](https://canvas.ubc.ca/courses/63160/discussion_topics/789571) ).  You must demo your project *before* the scheduled exam.  There will be a dedicated time to demo your project. Details of the Demo session and its date will be announced later in November.
