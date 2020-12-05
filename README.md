@@ -138,11 +138,12 @@ The grading scheme for this project is split as follows:
 
 | Component       |   Grade             |
 |-----------------|---------------------|
-| Overall System Design   |   20 %      |
+| Overall System Design   |   18 %      |
 | Requirements Satisfied  |   10 %      |
-| Design Document         |   30 %      |
-| Functional Implementation  |   30 %   |
+| Design Document         |   26 %      |
+| Functional Implementation  |   26 %   |
 | Testing                    |   10 %   |
+| Demo                    |   10 %   |
 | Extra features          |    15 %     |
 
 All students within a group will be awarded the same mark.  The final grade is at the discretion of the TAs and instructor.
